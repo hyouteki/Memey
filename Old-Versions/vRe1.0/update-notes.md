@@ -9,6 +9,12 @@ You can save your favorite memes and gifs in your account. Memey also have a sup
 ### Search memes
 You can search memes by typing subreddit name and enjoy.
 
+### New settings
+1.  Delete all saved memes and gifs.<br>
+2.  Toggle nsfw filter.<br>
+3.  Change max memes to be shown.
+
 ## Revamped
 **Revamped the whole GUI[look-n-feel] of Memey.**<br>
-**Added new settings**<br>
+*Changed navigation bar to navigation panel menu.*<br>
+*Changed the overly complicated UI to a simpler one.*<br>
