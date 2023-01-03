@@ -4,7 +4,7 @@
 ## New features
 
 ### SignIn
-You can save your favorite memes and gifs in your account. Memey also have a support for multipple accounts in a single device.
+You can save your favorite memes and gifs in your account. Memey also have a support for multiple accounts in a single device.
 
 ### Search memes
 You can search memes by typing subreddit name and enjoy.
