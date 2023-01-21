@@ -1,20 +1,46 @@
-# Revamped version 1.0
-**Not to be confused with version 1.0**<br>
+# Revamped version 2.0
+
+## Highlights 
+
+- **Migrated from material2 to material3 design pattern**<br>
+    That means Even better UI
+
+- **Optimized code**<br>
+    Better performance
+
+- **Upload your memes**<br>
 
 ## New features
 
-### SignIn
-You can save your favorite memes and gifs in your account. Memey also have a support for multiple accounts in a single device.
+- **Upload your meme feature**<br>
+    In memes page from menu then "+" symbol at the app bar
 
-### Search memes
-You can search memes by typing subreddit name and enjoy.
+- **Now you can see the memes posted by the Memey users**<br>
+    In memes page from menu
 
-### New settings
-1.  Delete all saved memes and gifs.<br>
-2.  Toggle nsfw filter.<br>
-3.  Change max memes to be shown.
+- **Added profile page**<br>
+    Click on profile from menu
 
-## Revamped
-**Revamped the whole GUI[look-n-feel] of Memey.**<br>
-*Changed navigation bar to navigation panel menu.*<br>
-*Changed the overly complicated UI to a simpler one.*<br>
+- **My memes menu options**<br>
+    Hold on any of your memes from profile page
+
+## Design changes
+
+- **Slightly tweaked the color palette**<br>
+    Made it subtle and sleek
+
+- **Changed how the dialog looks**<br>
+    AS in sign-out/confirm delete dialog
+
+- **Improved meme list item UI**<br>
+    In random memes & favorite memes
+
+- **Changed how search bar looks**<br>
+    In search memes & search gifs
+
+- **Changed the settings look**<br>
+    Made it more sleek, subtle and less vibrant
+
+- **Changed how gif looks when you click on it**<br>
+
+- **Changed favorite button icon to delete button icon in favorites pages**
