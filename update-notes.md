@@ -30,10 +30,10 @@
     Made it subtle and sleek
 
 - **Changed how the dialog looks**<br>
-    AS in sign-out/confirm delete dialog
+    As in sign-out/confirm delete dialog
 
 - **Improved meme list item UI**<br>
-    In random memes & favorite memes
+    In random, favorite & search memes
 
 - **Changed how search bar looks**<br>
     In search memes & search gifs
