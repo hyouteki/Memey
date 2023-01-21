@@ -15,7 +15,7 @@
 - **Upload your meme feature**<br>
     In memes page from menu then "+" symbol at the app bar
 
-- **Now you can see the memes posted by the Memey users**<br>
+- **Now you can see the memes posted by Memey users**<br>
     In memes page from menu
 
 - **Added profile page**<br>
