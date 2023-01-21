@@ -3,7 +3,7 @@
 ## Highlights 
 
 - **Migrated from material2 to material3 design pattern**<br>
-    That means Even better UI
+    That means even better UI
 
 - **Optimized code**<br>
     Better performance
