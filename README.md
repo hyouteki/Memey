@@ -2,7 +2,7 @@
 **Download link> https://github.com/Hyouteki/Memey/raw/main/Memey.apk**
 
 ## Highlights
-- **This is memey a goto app for enjoying memes and gifs**
+- **A goto app for enjoying memes and gifs**
 - **Sleek, Awesome & simple UI**
 - **Extensive Settings**
 
