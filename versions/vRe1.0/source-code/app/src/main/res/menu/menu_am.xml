@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Memes">
+        <menu>
+            <item
+                android:id="@+id/menu_am_meme"
+                android:icon="@drawable/ic_meme"
+                android:title="Random memes" />
+            <item
+                android:id="@+id/menu_am_fav_meme"
+                android:icon="@drawable/ic_favorite_filled"
+                android:title="Favorites" />
+            <item
+                android:id="@+id/menu_am_search_meme"
+                android:icon="@drawable/ic_pageview"
+                android:title="Search memes" />
+        </menu>
+    </item>
+    <item android:title="Gifs">
+        <menu>
+            <item
+                android:id="@+id/menu_am_gif"
+                android:icon="@drawable/ic_gif"
+                android:title="Trending gifs" />
+            <item
+                android:id="@+id/menu_am_fav_gif"
+                android:icon="@drawable/ic_favorite_filled"
+                android:title="Favorites" />
+            <item
+                android:id="@+id/menu_am_search_gif"
+                android:icon="@drawable/ic_pageview"
+                android:title="Search gifs" />
+        </menu>
+    </item>
+
+    <item android:title="Information">
+        <menu>
+            <item
+                android:id="@+id/menu_am_contact_support"
+                android:icon="@drawable/ic_contact_support"
+                android:title="Contact support" />
+            <item
+                android:id="@+id/menu_am_about_us"
+                android:icon="@drawable/ic_about_us"
+                android:title="About us" />
+        </menu>
+    </item>
+
+    <item android:title="Others">
+        <menu>
+            <item
+                android:id="@+id/menu_am_invite"
+                android:icon="@drawable/ic_received"
+                android:title="Invite friend" />
+            <item
+                android:id="@+id/menu_am_settings"
+                android:icon="@drawable/ic_settings"
+                android:title="Settings" />
+            <item
+                android:id="@+id/menu_am_sign_out"
+                android:icon="@drawable/ic_sign_out"
+                android:title="Sign out" />
+        </menu>
+    </item>
+
+
+</menu>
