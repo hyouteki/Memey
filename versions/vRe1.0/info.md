@@ -1,5 +1,5 @@
 # Information
-- **The code may not work as expected because it do not have the database instance. Cause I, removed it; as it is confidential.**
+- **The code may not work as expected because it do not have the database instance. Cause it is confidential.**
 - **If you wanna use the code for development, then follow the following steps**.
 	- Create a __firebase__ project.
 	- Add project name to be `com.hyouteki.oasis`.
