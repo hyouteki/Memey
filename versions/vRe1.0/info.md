@@ -1,0 +1,12 @@
+# Information
+- **The code may not work as expected because it do not have the database instance. Cause I, removed it; as it is confidential.**
+- **If you wanna use the code for development, then follow the following steps**.
+	- Create a __firebase__ project.
+	- Add project name to be `com.hyouteki.oasis`.
+	- Then select that project for __Memey__.
+	- Select following features in firebase 
+		- Authentication
+		- Firebase Firestore
+		- Storage
+	- Add your SHA1 or SHA256 key.
+	- Download the `google-services.json` and add that  file in `source-code/app/`.
