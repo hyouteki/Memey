@@ -1,46 +1,16 @@
-# Revamped version 2.0
+# Revamped version 2.1
 
-## Highlights 
+# Design changes
+- Slightly tweaked how meme list item looks<br><br>
+  <img src="https://github.com/Hyouteki/Memey/blob/main/versions/vRe2.1/dump/meme_list_item_old.jpeg"  width="250" height="600">
+  <img src="https://github.com/Hyouteki/Memey/blob/main/versions/vRe2.1/dump/meme_list_item_new.jpeg"  width="250" height="600">
+  
+- Improved how profile page looks.<br> And seperated my memes tab from profile.<br><br>
+  <img src="https://github.com/Hyouteki/Memey/blob/main/versions/vRe2.1/dump/profile_old.jpeg"  width="250" height="600">
+  <img src="https://github.com/Hyouteki/Memey/blob/main/versions/vRe2.1/dump/profile_new.jpeg"  width="250" height="600">
+  
+- Improved and simplified how settings look<br><br>
+  <img src="https://github.com/Hyouteki/Memey/blob/main/versions/vRe2.1/dump/settings_old.jpeg"  width="250" height="600">
+  <img src="https://github.com/Hyouteki/Memey/blob/main/versions/vRe2.1/dump/settings_new.jpeg"  width="250" height="600">
 
-- **Migrated from material2 to material3 design pattern**<br>
-    That means even better UI
-
-- **Optimized code**<br>
-    Better performance
-
-- **Upload your memes**<br>
-
-## New features
-
-- **Upload your meme feature**<br>
-    In memes page from menu then "+" symbol at the app bar
-
-- **Now you can see the memes posted by Memey users**<br>
-    In memes page from menu
-
-- **Added profile page**<br>
-    Click on profile from menu
-
-- **My memes menu options**<br>
-    Hold on any of your memes from profile page
-
-## Design changes
-
-- **Slightly tweaked the color palette**<br>
-    Made it subtle and sleek
-
-- **Changed how the dialog looks**<br>
-    As in sign-out/confirm delete dialog
-
-- **Improved meme list item UI**<br>
-    In random, favorite & search memes
-
-- **Changed how search bar looks**<br>
-    In search memes & search gifs
-
-- **Changed the settings look**<br>
-    Made it more sleek, subtle and less vibrant
-
-- **Changed how gif looks when you click on it**<br>
-
-- **Changed favorite button icon to delete button icon in favorites pages**
+- Removed email from header in navigation panel.
