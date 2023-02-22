@@ -5,18 +5,18 @@
 
 
 ## Highlights
-- A goto app for enjoying __memes__ and __gifs__
-- Sleek, Awesome & simple UI
-- Extensive Settings
+⭐ A goto app for enjoying __memes__ and __gifs__<br>
+😎 Sleek, Awesome & simple UI<br>
+💯 Extensive Settings<br>
 
 ## Meme
-- Share memes
-- Search memes by __subreddit__
-- Save memes
-- Create memes
-- View memes made by other __Memey users__
+⏩ Share memes to __hommies__<br>
+🔎 Search memes by __Subreddit__<br>
+⭐ Mark memes as favorite<br>
+📲 Submit your own memes<br>
+🔭 View memes made by other __Memey users__<br>
 
 ## Gif
-- Share gifs
-- Trending gifs
-- Save gifs
+⏩ Share gifs to __hommies__<br>
+📈 View __Trending gifs__<br>
+⭐ Mark gifs as favorite<br>
