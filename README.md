@@ -6,17 +6,17 @@
 
 ## Highlights
 ⭐ A goto app for enjoying __memes__ and __gifs__<br>
-😎 Sleek, Awesome & simple UI<br>
+😎 Sleek, Awesome & Simple UI<br>
 💯 Extensive Settings<br>
 
 ## Meme
 ⏩ Share memes with your __hommies__<br>
 🔎 Search memes by __Subreddit__<br>
-⭐ Mark memes as favorite<br>
+♥️ Mark memes as favorite<br>
 📲 Submit your own memes<br>
 🔭 View memes made by other __Memey users__<br>
 
 ## Gif
 ⏩ Share gifs with your __hommies__<br>
 📈 View __Trending gifs__<br>
-⭐ Mark gifs as favorite<br>
+♥️ Mark gifs as favorite<br>
