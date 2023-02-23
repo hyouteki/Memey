@@ -10,13 +10,13 @@
 💯 Extensive Settings<br>
 
 ## Meme
-⏩ Share memes to __hommies__<br>
+⏩ Share memes with your __hommies__<br>
 🔎 Search memes by __Subreddit__<br>
 ⭐ Mark memes as favorite<br>
 📲 Submit your own memes<br>
 🔭 View memes made by other __Memey users__<br>
 
 ## Gif
-⏩ Share gifs to __hommies__<br>
+⏩ Share gifs with your __hommies__<br>
 📈 View __Trending gifs__<br>
 ⭐ Mark gifs as favorite<br>
