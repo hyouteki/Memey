@@ -106,19 +106,21 @@
 - __Added `switch button` in `Top app bar`__<br>
   To switch between Random memes, Trending gifs & MEMEY memes<br>
   Replacement for switching between tabs using `drawer menu`<br>
-  <kbd>
-  <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/switch-tab-new.jpeg" width="246" height="544">
-  </kbd>
+<kbd>
+<img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/switch-tab-new.jpeg" width="246" height="544">
+</kbd>
+
 - __Relocated `search button` to `Top app bar`__<br>
   To search memes & gifs<br>
   Replacement for switching between tabs using `drawer menu`
 - __Changed the way that error message comes in__<br>
   By searching a `non valid subreddit` or by not getting a result in search gifs tab<br>
-  <kbd>
-  <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/error-message-old.jpeg" width="246" height="544">
-  </kbd> <kbd>
-  <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/error-message-new.jpeg" width="246" height="544">
-  </kbd>
+<kbd>
+<img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/error-message-old.jpeg" width="246" height="544">
+</kbd> <kbd>
+<img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/error-message-new.jpeg" width="246" height="544">
+</kbd>
+
 - __Changed the progress indicator__<br>
   From circular disk to `linear progress indicator` to better match current design
  
