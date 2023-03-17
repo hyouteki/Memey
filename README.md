@@ -3,6 +3,12 @@
 <a href="https://github.com/Hyouteki/Memey/raw/main/Memey.apk">
 <img src="https://img.shields.io/badge/Click-to%20download%20the%20application-red" width="300" height="32" alt="Download from here"/> </a> <br>
 
+<a href="https://github.com/Hyouteki/Memey/blob/main/LICENSE.md">
+<img src="https://img.shields.io/badge/License-MIT%20license-green"/> </a>
+
+<a href="https://github.com/Hyouteki/Memey/releases/tag/Latest">
+<img src="https://img.shields.io/badge/Latest%20release-%CE%BB-blue"/> </a> <br>
+
 # Contents
 
 - [Screenshots](#screenshots)
