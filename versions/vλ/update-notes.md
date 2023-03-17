@@ -8,12 +8,8 @@
 
 # Screenshots
 
-<img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/random-meme-new.jpeg" width="246" height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/trending-gifs-new.jpeg" width="246" height="544">
-<img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/search-memes-new.jpeg" width="246" height="544">
-<img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/search-gifs-new.jpeg" width="246" height="544"> <br>
-<img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/add-meme-new.jpeg" width="246" height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/single-meme-new.jpeg" width="246" height="544">
-<img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/more-new.jpeg" width="246" height="544">
-<img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/settings-new.jpeg" width="246" height="544"> 
+<img 
+src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/random-meme-new.jpeg" width="246" height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/trending-gifs-new.jpeg" width="246" height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/search-memes-new.jpeg" width="246" height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/search-gifs-new.jpeg" width="246" height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/add-meme-new.jpeg" width="246" height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/single-meme-new.jpeg" width="246" height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/more-new.jpeg" width="246" height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/settings-new.jpeg" width="246" height="544"> 
 
 # Highlights
 
