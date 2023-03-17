@@ -9,6 +9,8 @@
 - [Highlights](#highlights)
 - [Meme](#meme)
 - [Gif](#gif)
+- [Versions](https://github.com/Hyouteki/Memey/blob/main/versions.md)
+- [Update notes](https://github.com/Hyouteki/Memey/blob/main/update-notes.md)
 
 # Screenshots
 
