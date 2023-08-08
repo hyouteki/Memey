@@ -1,14 +1,23 @@
-# <img src="https://github.com/Hyouteki/Memey/blob/main/memey.png"  width="24" height="24">  Memey 
+![MEMEY banner image](https://github.com/Hyouteki/Memey/blob/main/memey_banner_image.jpg)
 
-<a href="https://github.com/Hyouteki/Memey/raw/main/Memey.apk"> <img 
-src="https://img.shields.io/badge/Click-to%20download%20the%20application-red"/> </a> <br> 
-<a href="https://github.com/Hyouteki/Memey/blob/main/LICENSE.md"> <img 
-src="https://img.shields.io/badge/License-MIT%20license-green"/> </a>
-<a href="https://github.com/Hyouteki/Memey/releases/tag/Latest"> <img
-src="https://img.shields.io/badge/Latest%20release-%CE%BB-blue"/> </a> <br>
+[![Download][download-shield]][download-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stars-shield]][stars-url]
+[![MIT License][license-shield]][license-url]
+[![Latest release][release-shield]][release-url]
 
-# Contents
+[contributors-shield]: https://img.shields.io/github/contributors/hyouteki/Memey.svg?style=for-the-badge
+[contributors-url]: https://github.com/hyouteki/Memey/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/hyouteki/Memey.svg?style=for-the-badge
+[stars-url]: https://github.com/hyouteki/Memey/stargazers
+[license-shield]: https://img.shields.io/github/license/hyouteki/Memey.svg?style=for-the-badge
+[license-url]: https://github.com/hyouteki/Memey/blob/master/LICENSE.txt
+[download-shield]: https://img.shields.io/badge/Click-to%20download%20the%20application-purple?style=for-the-badge
+[download-url]: https://github.com/Hyouteki/Memey/raw/main/Memey.apk
+[release-shield]: https://img.shields.io/badge/Latest%20release-%CE%BB-pink?style=for-the-badge
+[release-url]: https://github.com/Hyouteki/Memey/releases/tag/Latest
 
+## Contents
 - [Screenshots](#screenshots)
 - [Highlights](#highlights)
 - [Meme](#meme)
@@ -16,40 +25,31 @@ src="https://img.shields.io/badge/Latest%20release-%CE%BB-blue"/> </a> <br>
 - [Versions](https://github.com/Hyouteki/Memey/blob/main/versions.md)
 - [Update notes](https://github.com/Hyouteki/Memey/blob/main/update-notes.md)
 
-# Screenshots
+## Screenshots
+ 
+<img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/random-meme-new.jpeg" width="246" 
+height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/trending-gifs-new.jpeg" width="246" 
+height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/search-memes-new.jpeg" width="246" 
+height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/search-gifs-new.jpeg" width="246" 
+height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/add-meme-new.jpeg" width="246" 
+height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/single-meme-new.jpeg" width="246" 
+height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/more-new.jpeg" width="246" 
+height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/settings-new.jpeg" width="246" height="544"> 
 
-<kbd> 
-<img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/random-meme-new.jpeg" width="246" height="544"> 
-</kbd> <kbd> 
-<img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/trending-gifs-new.jpeg" width="246" height="544">
-</kbd> <kbd> 
-<img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/search-memes-new.jpeg" width="246" height="544">
-</kbd> <kbd> 
-<img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/search-gifs-new.jpeg" width="246" height="544">
-</kbd> <kbd> 
-<img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/add-meme-new.jpeg" width="246" height="544"> 
-</kbd> <kbd> 
-<img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/single-meme-new.jpeg" width="246" height="544"> 
-</kbd> <kbd> 
-<img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/more-new.jpeg" width="246" height="544"> 
-</kbd> <kbd> 
-<img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/settings-new.jpeg" width="246" height="544"> 
-</kbd>
-
-# Highlights
+## Highlights
 ⭐ A goto app for enjoying __memes__ and __gifs__<br>
 😎 Simple, Sleek, Cheerful & Awesome UI<br>
 💯 Extensive Settings<br>
 📑 Multiple layouts to choose from
 
-# Meme
+## Meme
 ⏩ Share memes with your __hommies__<br>
 🔎 Search memes by __Subreddit__<br>
 ♥️ Mark memes as favorite<br>
 📲 Submit your own memes<br>
 🔭 View memes made by other __Memey users__<br>
 
-# Gif
+## Gif
 ⏩ Share gifs with your __hommies__<br>
 📈 View __Trending gifs__<br>
 ♥️ Mark gifs as favorite<br>
