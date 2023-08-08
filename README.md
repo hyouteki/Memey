@@ -11,7 +11,7 @@
 [stars-shield]: https://img.shields.io/github/stars/hyouteki/Memey.svg?style=for-the-badge
 [stars-url]: https://github.com/hyouteki/Memey/stargazers
 [license-shield]: https://img.shields.io/github/license/hyouteki/Memey.svg?style=for-the-badge
-[license-url]: https://github.com/hyouteki/Memey/blob/master/LICENSE.txt
+[license-url]: https://github.com/hyouteki/Memey/blob/master/LICENSE.md
 [download-shield]: https://img.shields.io/badge/Click-to%20download%20the%20application-purple?style=for-the-badge
 [download-url]: https://github.com/Hyouteki/Memey/raw/main/Memey.apk
 [release-shield]: https://img.shields.io/badge/Latest%20release-%CE%BB-pink?style=for-the-badge
