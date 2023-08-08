@@ -22,6 +22,7 @@
 - [Highlights](#highlights)
 - [Meme](#meme)
 - [Gif](#gif)
+- [Courtesy](#courtesy)
 - [Versions](https://github.com/Hyouteki/Memey/blob/main/versions.md)
 - [Update notes](https://github.com/Hyouteki/Memey/blob/main/update-notes.md)
 
@@ -53,3 +54,7 @@ height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%C
 ⏩ Share gifs with your __hommies__<br>
 📈 View __Trending gifs__<br>
 ♥️ Mark gifs as favorite<br>
+
+## Courtesy 
+ - [D3vd/Meme_Api](https://github.com/D3vd/Meme_Api.git) 
+ - [GIPHY Developers Api](https://developers.giphy.com/)
