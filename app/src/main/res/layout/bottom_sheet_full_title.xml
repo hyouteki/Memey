@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bottom_sheet_background"
+    tools:context=".dialogs.FullTitleBottomSheet">
+
+    <View
+        android:id="@+id/handle"
+        android:layout_width="30dp"
+        android:layout_height="3dp"
+        android:layout_marginTop="15dp"
+        android:background="@color/foreground"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/rubik_semibold"
+        android:textColor="@color/surfaceOnDark"
+        android:textSize="24sp"
+        app:layout_constraintTop_toBottomOf="@id/handle"
+        tools:text="me_irl" />
+
+    <View
+        android:id="@+id/space"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/title" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

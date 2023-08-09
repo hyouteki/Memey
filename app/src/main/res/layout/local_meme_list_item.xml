@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/meme_card"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="10dp"
+    android:layout_marginVertical="10dp"
+    app:cardBackgroundColor="@color/secBackground"
+    app:cardCornerRadius="10dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/user_image"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:src="@drawable/test_profile_image" />
+
+        <TextView
+            android:id="@+id/user_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:fontFamily="@font/rubik_bold"
+            android:gravity="center_vertical"
+            android:lines="1"
+            android:textColor="@color/colorTertiary"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="@id/user_image"
+            app:layout_constraintEnd_toStartOf="@id/share"
+            app:layout_constraintStart_toEndOf="@id/user_image"
+            app:layout_constraintTop_toTopOf="@id/user_image"
+            tools:text="Nasa Yuzaki" />
+
+        <ImageView
+            android:id="@+id/share"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginVertical="10dp"
+            android:layout_marginStart="10dp"
+            android:background="?attr/selectableItemBackground"
+            android:clickable="true"
+            android:padding="8dp"
+            android:src="@drawable/ic_share"
+            app:layout_constraintTop_toTopOf="@id/user_image"
+            app:layout_constraintBottom_toBottomOf="@id/user_image"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="10dp"
+            app:tint="@color/lightGreen" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:layout_marginTop="10dp"
+            android:ellipsize="end"
+            android:fontFamily="@font/rubik_semibold"
+            android:maxLines="1"
+            android:textColor="@color/surfaceOnDark"
+            android:textSize="18sp"
+            app:layout_constraintTop_toBottomOf="@id/user_image"
+            tools:text="Here goes the fucking meme" />
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/meme_image_card"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:layout_marginVertical="10dp"
+            android:backgroundTint="@color/secBackground"
+            android:maxHeight="400dp"
+            app:cardCornerRadius="10dp"
+            app:layout_constraintTop_toBottomOf="@id/title">
+
+
+            <ImageView
+                android:id="@+id/meme_image"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_constraintTop_toBottomOf="@id/title"
+                tools:src="@drawable/random_gif" />
+
+        </androidx.cardview.widget.CardView>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>
+
+
+
+
+
+
+
+

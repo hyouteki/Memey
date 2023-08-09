@@ -1,0 +1,77 @@
+<resources>
+
+    <style name="Theme.Memey" parent="Base.Theme.Memey">
+        <!-- Transparent system bars for edge-to-edge. -->
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:statusBarColor">@color/takoPurple</item>
+        <item name="android:windowLightStatusBar">?attr/isLightTheme</item>
+
+    </style>
+
+    <style name="MaterialAlertDialogStyle" parent="ThemeOverlay.Material3.MaterialAlertDialog">
+        <item name="colorPrimary">@color/spaceViolet</item>
+        <item name="colorSecondary">@color/foreground</item>
+        <item name="colorSurface">@color/container</item>
+        <item name="colorOnSurface">@color/foreground</item>
+        <item name="materialAlertDialogTitleTextStyle">@style/MaterialAlertDialogTitleStyle</item>
+        <item name="materialAlertDialogBodyTextStyle">@style/MaterialAlertDialogContentStyle</item>
+        <item name="buttonBarPositiveButtonStyle">@style/MaterialAlertDialogButtonStyle</item>
+        <item name="buttonBarNegativeButtonStyle">@style/MaterialAlertDialogButtonStyle</item>
+        <item name="materialAlertDialogTitleIconStyle">@style/MaterialAlertDialogIconStyle</item>
+    </style>
+
+    <style name="MaterialAlertDialogIconStyle" parent="@style/MaterialAlertDialog.MaterialComponents.Title.Icon">
+        <item name="android:tint">@color/tertiary</item>
+    </style>
+
+    <style name="MaterialAlertDialogTitleStyle" parent="MaterialAlertDialog.Material3.Title.Text">
+        <item name="android:textColor">@color/tertiary</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="MaterialAlertDialogContentStyle" parent="MaterialAlertDialog.Material3.Body.Text">
+        <item name="android:textColor">@color/surfaceOnDark</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="MaterialAlertDialogButtonStyle" parent="Widget.Material3.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/foreground</item>
+    </style>
+
+    <style name="SwitchStyle" parent="ThemeOverlay.Material3">
+        <item name="colorPrimary">@color/foreground</item>
+    </style>
+
+    <style name="FilterChipStyle" parent="Widget.Material3.Chip.Filter">
+        <item name="chipBackgroundColor">@color/chip_background_color</item>
+        <item name="android:textColor">@color/chip_text_color</item>
+        <item name="checkedIconTint">@color/takoPurple</item>
+        <item name="chipIconSize">22dp</item>
+    </style>
+
+    <style name="SuggestionChipStyle" parent="@style/Widget.Material3.Chip.Suggestion">
+        <item name="chipBackgroundColor">@color/chip_background_color</item>
+        <item name="android:textColor">@color/chip_text_color</item>>
+    </style>
+
+    <style name="AppTheme.Picker" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColorPrimary">@color/colorTertiary</item>
+        <item name="colorControlNormal">@color/colorTertiary</item>
+    </style>
+
+    <style name="Memey.Settings.Label" parent="Widget.AppCompat.TextView">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">14sp</item>
+        <item name="fontFamily">android:fontFamily="@font/opensans_regular"</item>
+        <item name="android:textColor">@color/colorForeground</item>
+    </style>
+
+    <style name="Memey.Settings.Text" parent="Widget.AppCompat.TextView">
+        <item name="android:layout_width">200dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">18sp</item>
+        <item name="fontFamily">android:fontFamily="@font/opensans_regular"</item>
+        <item name="android:textColor">@color/colorTertiary</item>
+    </style>
+</resources>

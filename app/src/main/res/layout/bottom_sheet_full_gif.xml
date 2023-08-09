@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bottom_sheet_background"
+    tools:context=".dialogs.FullGifBottomSheet">
+
+    <View
+        android:id="@+id/handle"
+        android:layout_width="30dp"
+        android:layout_height="3dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/foreground"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="20dp"
+        android:ellipsize="end"
+        android:fontFamily="@font/rubik_semibold"
+        android:maxLines="1"
+        android:textColor="@color/surfaceOnDark"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@id/handle"
+        tools:text="Here goes the fucking gif" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/gif_card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:maxHeight="400dp"
+        app:cardCornerRadius="10dp"
+        app:layout_constraintTop_toBottomOf="@id/title">
+
+        <ImageView
+            android:id="@+id/gif"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorBackground"
+            android:maxHeight="400dp"
+            android:src="@drawable/ic_gif" />
+
+    </androidx.cardview.widget.CardView>
+
+    <ImageView
+        android:id="@+id/favorite"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="10dp"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:padding="8dp"
+        android:src="@drawable/ic_favorite"
+        app:layout_constraintBottom_toBottomOf="@id/share"
+        app:layout_constraintStart_toEndOf="@id/share"
+        app:layout_constraintTop_toTopOf="@id/share"
+        app:tint="@color/softRed" />
+
+    <ImageView
+        android:id="@+id/share"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="20dp"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:padding="8dp"
+        android:src="@drawable/ic_share"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/gif_card"
+        app:tint="@color/softGreen" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

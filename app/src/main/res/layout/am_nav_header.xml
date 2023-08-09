@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?attr/selectableItemBackground"
+    android:clickable="true">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/civ_amnh_user_image"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginVertical="10dp"
+        android:layout_marginStart="10dp"
+        app:civ_border_color="@color/colorForeground"
+        app:civ_border_width="2dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:src="@drawable/test_profile_image" />
+
+    <TextView
+        android:id="@+id/tv_amnh_user_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/opensans_semibold"
+        android:maxLines="1"
+        android:textColor="@color/colorTertiary"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/civ_amnh_user_image"
+        tools:text="Nurarihyon" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginHorizontal="5dp"
+        android:background="@color/takoCream"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
