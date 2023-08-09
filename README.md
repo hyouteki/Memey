@@ -23,19 +23,17 @@
 - [Meme](#meme)
 - [Gif](#gif)
 - [Courtesy](#courtesy)
-- [Versions](https://github.com/Hyouteki/Memey/blob/main/versions.md)
-- [Update notes](https://github.com/Hyouteki/Memey/blob/main/update-notes.md)
 
 ## Screenshots
  
-<img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/random-meme-new.jpeg" width="246" 
-height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/trending-gifs-new.jpeg" width="246" 
-height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/search-memes-new.jpeg" width="246" 
-height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/search-gifs-new.jpeg" width="246" 
-height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/add-meme-new.jpeg" width="246" 
-height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/single-meme-new.jpeg" width="246" 
-height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/more-new.jpeg" width="246" 
-height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/versions/v%CE%BB/dump/settings-new.jpeg" width="246" height="544"> 
+<img src="https://github.com/Hyouteki/Memey/blob/main/screenshots/random-meme-new.jpeg" width="246" 
+height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/screenshots/trending-gifs-new.jpeg" width="246" 
+height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/screenshots/search-memes-new.jpeg" width="246" 
+height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/screenshots/search-gifs-new.jpeg" width="246" 
+height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/screenshots/add-meme-new.jpeg" width="246" 
+height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/screenshots/single-meme-new.jpeg" width="246" 
+height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/screenshots/more-new.jpeg" width="246" 
+height="544"> <img src="https://github.com/Hyouteki/Memey/blob/main/screenshots/settings-new.jpeg" width="246" height="544"> 
 
 ## Highlights
 ⭐ A goto app for enjoying __memes__ and __gifs__<br>
