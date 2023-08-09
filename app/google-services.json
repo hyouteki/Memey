@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "171597019383",
+    "project_id": "memey-43daa",
+    "storage_bucket": "memey-43daa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171597019383:android:7c50fc010dc018b901fbf2",
+        "android_client_info": {
+          "package_name": "com.hyouteki.projects.memey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171597019383-l2sf4jgus4rkv3cd0vgp3j1ofue1e8in.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hyouteki.projects.memey",
+            "certificate_hash": "19e3613dc5dcb7fa7b5a9045e2f3ba73a2f38dee"
+          }
+        },
+        {
+          "client_id": "171597019383-cetl1ra7t2gmnr2e68uh0a8v3c8amdav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc4u3kfj46pYM9aDjIlw8ltut5Q4VrC4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171597019383-cetl1ra7t2gmnr2e68uh0a8v3c8amdav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

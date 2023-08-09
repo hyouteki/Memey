@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Memey</string>
+    <!--  TODO: Remove or change this placeholder text  -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="about_me">Hey there, I\'m Lakshay the developer of this application. First of all thank you for using Memey and for furthur supporting me in my endeavours; please follow me on the following platforms. See ya...</string>
+    <string name="settings_page">Settings</string>
+    <string name="nsfw_desc">This does not prevent unofficial or potentially incorrectly flagged memes from surfacing NSFW content within the app.</string>
+    <string name="favorite_meme_page">Favorite memes</string>
+    <string name="favorite_gif_page">Favorite gifs</string>
+    <string-array name="tabs">
+        <item>Meme</item>
+        <item>Gif</item>
+    </string-array>
+    <string-array name="share_link">
+        <item>Image link</item>
+        <item>Post link</item>
+    </string-array>
+</resources>
