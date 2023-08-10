@@ -1,9 +1,9 @@
 ![MEMEY banner image](https://github.com/Hyouteki/Memey/blob/main/memey_banner_image.jpg)
 
-[![Download][download-shield]][download-url]
-[![Contributors][contributors-shield]][contributors-url]
-[![Stargazers][stars-shield]][stars-url]
-[![MIT License][license-shield]][license-url]
+[![Download][download-shield]][download-url]&nbsp;
+[![Contributors][contributors-shield]][contributors-url]&nbsp;
+[![Stargazers][stars-shield]][stars-url]&nbsp;
+[![MIT License][license-shield]][license-url]&nbsp;
 [![Latest release][release-shield]][release-url]
 
 [contributors-shield]: https://img.shields.io/github/contributors/hyouteki/Memey.svg?style=for-the-badge
